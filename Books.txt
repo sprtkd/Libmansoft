@@ -1,0 +1,4 @@
+
+10	Clocks	Agatha Christie	199.000000	English	Detective	8
+8	6 easy pieces	Feynmann	399.000000	English	Science	15
+34	Shonku Somogro	Satyajit Ray	400.000000	Bengali	Science fiction	16
