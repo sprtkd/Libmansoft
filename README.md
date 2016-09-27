@@ -1,0 +1,3 @@
+# Libmansoft
+Library Requisition Software in command line
+This is a library management software....
